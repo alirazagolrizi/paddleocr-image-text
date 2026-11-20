@@ -1,0 +1,2 @@
+paddleocr
+# Install a PaddlePaddle build compatible with your OS/CUDA from the official PaddlePaddle installation guidance.
